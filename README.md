@@ -1,8 +1,6 @@
-this is css file same as tailwind css
-now update . 
-and modified.
+# This is Git Command File
 
-# git command.
+## git command.
 ### For download repo from github
 1. git clone "url"
 ### for track file after modified
@@ -46,3 +44,5 @@ and modified.
 23. git reset commit-hash-name         # for reset on perticular commit with hash name/number
 24. git reset --hard commit-hash-name   # for remove all commit changes from IDE till perticular hash name.
 # FORK ( create a rough repo copy of perticular repo)
+
+# Thanks For Watching. 
