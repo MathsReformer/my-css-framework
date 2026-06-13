@@ -24,3 +24,7 @@ and modified.
 7. git branch   # to check branch
 8. git branch -M main      # to rename branch
 9. git push origin main     # for push all files and folder on github folder
+# If to save "origin main" location then apply thease command
+10. git push -u origin main
+# After this use only "git push" command for push all files.
+11. git push
