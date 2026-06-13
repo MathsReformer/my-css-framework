@@ -43,6 +43,15 @@
 22. git log     # to check and read all commit ( note: for quit log , type "q" and enter)
 23. git reset commit-hash-name         # for reset on perticular commit with hash name/number
 24. git reset --hard commit-hash-name   # for remove all commit changes from IDE till perticular hash name.
-# FORK ( create a rough repo copy of perticular repo)
+### FORK ( create a rough repo copy of perticular repo)
 
+## when push command use then if display bash popup more account then for logout other account
+( open git bash terminal )
+firstly check accounts 
+1. git credential-manager github list
+   ( if display two or more account ex. MathsReformer 186747206 etc). then logout all account
+2. git credential-manager github logout 186747206
+   ( check all option )
+3. git credential-manager github --help
+   
 # Thanks For Watching. 
