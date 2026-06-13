@@ -18,8 +18,8 @@ and modified.
 ( Now you can create file and folder inside this folder) after changes
 3. git add .
 4. git commit -m "meaasage"
-( after commit , for push this folder on github. firstly create same folder name in github without readme file. ) then after
-5. git remote add origin <-github folder Link->
+( after commit , for push this folder on github. firstly create folder from any name in github without readme file. ) then after
+5. git remote add origin "github folder Link"
 6. git remote -v   # for veryfy remote
 7. git branch   # to check branch
 8. git branch -M main      # to rename branch
