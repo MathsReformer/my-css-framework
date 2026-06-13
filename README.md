@@ -49,9 +49,9 @@
 ( open git bash terminal )
 firstly check accounts 
 1. git credential-manager github list
-   ( if display two or more account ex. MathsReformer 186747206 etc). then logout all account
+   <br>( if display two or more account ex. MathsReformer 186747206 etc). then logout all account
 2. git credential-manager github logout 186747206
-   ( check all option )
+   <br>( check all option )
 3. git credential-manager github --help
    
 # Thanks For Watching. 
