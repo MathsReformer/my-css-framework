@@ -28,7 +28,7 @@
 11. git push
 # for add new branch
 12. git checkout -b newbranchname
-13. git checkout branchname     # to change branch
+13. git checkout branchname     # to change branch ( or use "git switch branchname")
 14. git branch      # to check branch name
 15. git branch -d branchname        # to delete branch ( firstly checkout )
 16. git push origin branchname         # to push current branch data
